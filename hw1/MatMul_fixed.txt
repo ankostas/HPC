@@ -1,0 +1,7 @@
+Starting:
+Time elapsed (ijn) parallelization: 7410000.0 seconds.
+Time elapsed (ijn): 7090000.0 seconds.
+Time elapsed (jin) parallelication: 5460000.0 seconds.
+Time elapsed (jin): 5070000.0 seconds.
+Time elapsed (nij) parallelization: 5090000.0 seconds.
+Time elapsed (nij): 3960000.0 seconds.
